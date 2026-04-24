@@ -61,19 +61,19 @@ The app helps users identify and interpret:
 
 Step 1: Install the required packages:
 
-pip install -r requirements.txt
+pip install -r your/path/requirements.txt
 
 If needed, use:
 
-pip3 install -r requirements.txt
+pip3 install -r your/path/requirements.txt
 
 Step 2: Run the app:
 
-streamlit run app.py
+streamlit run your/path/app.py
 
 If needed, use:
 
-python3 -m streamlit run app.py
+python3 -m streamlit run your/path/app.py
 
 Step 3: Use the app.
 
@@ -82,10 +82,11 @@ Enter:
 - WRDS username
 - Company ticker, for example AAPL, TSLA, or NVDA
 - Start year, for example 2018
+- When first using, return to VS Code
 - VS Code will require you to enter your username and password into terminal
-- Enter your data and confirm your log in with Duo Mobile
+- Enter your data and confirm your log in with Duo Mobile/phone call
 
-!!! Without login in terminal and confirmation the analysis tool will not function !!!
+!!! Without login in terminal and confirmation the analysis tool will not load and process data !!!
 
 Then run the analysis and review the KPI table.
 
