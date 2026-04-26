@@ -94,7 +94,7 @@ Then run the analysis and review the KPI table.
 
 **GitHub repository:** https://github.com/alexejzuyev-maker/financial-statement-analysis-tool/tree/main
 
-**Demo video:** https://youtu.be/DJVgRsqE3cA?si=O4ZZcoUsouOOnUDa
+**Demo video:** https://video.xjtlu.edu.cn/Mediasite/Play/064eb82bcbeb442981bfd8777bbc888c1d
 
 The demo video should briefly show:
 
